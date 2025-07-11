@@ -2,7 +2,7 @@
 
 An end-to-end Python toolkit for analyzing football (soccer) videos. This pipeline:
 
-* Tracks **players**, **referees**, and the **ball** using YOLOv8 + ByteTrack
+* Tracks **players**, **referees**, and the **ball** using YOLOv11 + ByteTrack
 * Compensates for **camera motion** via optical flow
 * Applies a **perspective transform** to map image points to real-world field coordinates
 * Identifies **teams** by clustering jersey colors (K-Means)
