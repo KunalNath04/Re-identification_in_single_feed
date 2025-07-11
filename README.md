@@ -37,8 +37,8 @@ football_analysis-main/
 1. **Clone repository**
 
    ```bash
-   git clone https://github.com/youruser/football_analysis-main.git
-   cd football_analysis-main
+   git clone https://github.com/KunalNath04/Re-identification_in_single_feed.git
+   cd Re-identification_in_single_feed
    ```
 
 2. **Create & activate a virtual environment**
@@ -74,7 +74,7 @@ football_analysis-main/
 ## 🔍 Pipeline Steps
 
 1. **Video Loading**: Reads frames from the `.mp4` file.
-2. **Detection & Tracking**: YOLOv8 + ByteTrack assigns consistent IDs.
+2. **Detection & Tracking**: YOLOv11 + ByteTrack assigns consistent IDs.
 3. **Camera Motion Compensation**: Removes global camera shifts.
 4. **Perspective Transform**: Maps image to field coordinates.
 5. **Team Clustering**: K-Means groups players into two teams by jersey color.
