@@ -1,4 +1,4 @@
-# Football Analysis Pipeline
+# Re-identification_in_single_feed Pipeline
 
 An end-to-end Python toolkit for analyzing football (soccer) videos. This pipeline:
 
