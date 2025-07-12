@@ -61,7 +61,7 @@ football_analysis-main/
 
 ## ▶️ Usage
 
-1. **Add your video** to `input_videos/` (e.g. `match.mp4`).
+1. **Add your video and model** to `input_videos/` (e.g. `match.mp4`) and `models/` (e.g. `best.pt`) respectively.
 2. **Run the pipeline**:
 
    ```bash
