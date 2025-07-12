@@ -84,7 +84,7 @@ football_analysis-main/
    * **Team 1**: Blue
    * **Team 2**: Red
    * **Referees**: Yellow
-   * **Ball**: Green (only when detected)
+   * **Ball**: Green 
 8. **Save Video**: Exports annotated results.
 
 ---
